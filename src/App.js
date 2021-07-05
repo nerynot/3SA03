@@ -1,11 +1,16 @@
 import React from 'react';
-import './App.css';
-
+export default function CharacterCard(props) {
+ return (
+ <div>{props.value}</div>
+ )
+}
+แก้ไขไฟล์ App.js
+import CharacterCard from './CharacterCard';
 function App() {
-  return (
-    <div>
-      Hello World
-    </div>
+ return (
+ <div>
+ <CharacterCard value="h"/>
+ <CharacterCard value="i"/>
+ </div>
  );
 }
-export default App;
