@@ -1,3 +1,63 @@
+นาย นพนนท์ ลิ่มสกุล 6210110502 sec 01
+
+->ได้มีเเนวคิดในการสร้างโดยเป็นเกมการสะกดคำสำหรับเด็กมีคำศัพท์หลากหลายแบบ
+
+ได้ทำการเพิ่มเติมในส่วนของ
+
+-ได้เพิ่มส่วนของคำศัพท์ 3 บท
+-ได้เพิ่มการสุ่มคำในแค่ละบท
+-ได้เพิ่มการ restrat game
+-เเต่ง app.css
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
