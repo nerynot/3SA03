@@ -1,12 +1,16 @@
 import './App.css';
 import WordCard from './WordCard';
+import _ from 'lodash'
 
-const word = "Hello";
+
 function App() {
+  const word = ["LEAN","SIT","HIT","CRAWL","CLIMB","CARRY","FLY","SWIM"];
+  const randomWord = _.sample(word)
   return (
     <div>
       {
-        <WordCard value={word}/>
+        <WordCard value={randomWord}/>
+        
       }
     </div>
  );
