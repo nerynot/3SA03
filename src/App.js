@@ -16,12 +16,12 @@ function App() {
       <header>
         <h1> English word activity game </h1>
       </header>
-      <div className="maingame" >
+        <div className="maingame" >
           <WordCard value = {randomWord}/>
-      </div>
-      <button className="newgame" onClick={newGame}>
+        </div>
+        <button className="newgame" onClick={newGame}>
           Restart
-      </button>
+        </button>
         
       
     </div>

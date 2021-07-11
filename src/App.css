@@ -13,8 +13,10 @@
 
 }
 .newgame{
-  color: aliceblue;
-  background(80, 213, 248): black;
+  color: rgb(0, 0, 0);
+  background(60, 213, 248): black;
+  margin: 1em;
+  
 
  }
  .head{
