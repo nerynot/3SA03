@@ -11,4 +11,21 @@
   color: red;
   background: palegreen;
 
+}
+.newgame{
+  color: aliceblue;
+  background(80, 213, 248): black;
+
  }
+ .head{
+  background-color: #ff79d2;
+  text-align: left ;
+  color: azure;
+
+}
+.maingame{
+border-radius: 15px;
+background-color: #63f0f0 ;
+display: inline-block;
+color: black;
+}
